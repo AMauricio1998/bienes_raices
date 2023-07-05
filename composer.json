@@ -1,0 +1,19 @@
+{
+    "name": "mauricio/bienesraices_inicio",
+    "description": "Mudando a POO",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./clases"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alan Mauricio",
+            "email": "al221910354@gmail.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.7"
+    }
+}
